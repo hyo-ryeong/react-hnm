@@ -1,3 +1,5 @@
-React를 이용한 H&M 쇼핑물입니다.
+# React_H&M 쇼핑물
+React로 H&M 쇼핑물을 구현하였습니다<br /><br />
 
-https://hnm1984.netlify.app/ 에 배포하였습니다.
+Netlify에 배포하였습니다.
+https://hnm1984.netlify.app/
